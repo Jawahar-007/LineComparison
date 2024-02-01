@@ -1,9 +1,6 @@
-import com.bridgelabz.linecomparison.line;
-import com.bridgelabz.linecomparison.Point;
+package com.bridgelabz.linecomparison;
 
-import java.sql.SQLOutput;
-
-public class Main {
+public class linecomparision {
     public static void main(String args[]){
         Point p1 = new Point(1,5);
         Point p2 = new Point(4,5);
